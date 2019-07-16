@@ -2,7 +2,7 @@ INPUT
 Declare
 
 var a;
-var sum;
+var sum=0;
 ---------------
 process 
 for(a=1;a<11;a++)
