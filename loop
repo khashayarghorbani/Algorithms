@@ -1,0 +1,12 @@
+INPUT
+Declare
+
+var a;
+var sum;
+---------------
+process 
+for(a=1;a<11;a++)
+{sum = sum + a;}
+---------------
+OUTPUT
+print the result
