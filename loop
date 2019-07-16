@@ -10,3 +10,32 @@ for(a=1;a<11;a++)
 ---------------
 OUTPUT
 print the result
+
+___________________________________________
+INPUT 
+declare
+
+var a;
+var sum=0;
+
+---------
+process 
+for(a=1;a<11;a+=1+1)
+{sum=sum+a; console.log (a);}
+-----------------
+OUTPUT
+alert(sum)
+______________
+INPUT 
+declare
+
+var a;
+var sum=0;
+
+---------
+process 
+for(a=1;a<11;a+=1+1)
+{sum=sum+a; console.log (a);}
+-----------------
+OUTPUT
+alert(sum)
