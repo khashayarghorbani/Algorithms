@@ -34,7 +34,7 @@ var sum=0;
 
 ---------
 process 
-for(a=1;a<11;a+=1+1)
+for(a=2;a<11;a+=1+1)
 {sum=sum+a; console.log (a);}
 -----------------
 OUTPUT
