@@ -1,0 +1,6 @@
+var A1 = assignment 1;
+var A2 = assignment 2;
+var sum;
+var avarage;
+sum = A1 + A2;
+avarage = sum/2;
