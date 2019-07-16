@@ -1,0 +1,20 @@
+INPUT
+declare
+
+var grade1;
+var grade2;
+var grade3;
+var grade4;
+var average;
+var status;
+----------------------
+process 
+
+average = (grade1 + grade2 + grade3 + grade4)/4;
+if(average >=60)
+{status("approved");} 
+else
+{status("failed");}
+------------------------
+OUTPUT
+print result;
