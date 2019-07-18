@@ -1,0 +1,37 @@
+Area of Circle
+INPUT
+var r=INPUT;
+var A;
+var pi=3.14;
+---------------
+Process
+A=pi*r^2
+---------------
+OUTPUT
+Print A;
+
+
+________________________________________________________
+Area of triangle
+INPUT
+var h=INPUT;
+var b=INPUT;
+var A;
+---------------
+Process
+A=h*b/2
+---------------
+OUTPUT
+print A;
+________________________________________________________
+Area of rectangle
+INPUT
+var w=input;
+var l=input;
+var a;
+----------------
+Process
+a=w*l;
+----------------
+OUTPUT
+print a;
